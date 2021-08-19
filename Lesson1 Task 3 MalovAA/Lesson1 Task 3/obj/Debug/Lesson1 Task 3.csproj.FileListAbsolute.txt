@@ -1,0 +1,7 @@
+R:\Study\Архетиктура и шаблоны C#\Урок 1\Lesson1\Lesson1 Task 3\Lesson1 Task 3\bin\Debug\Lesson1 Task 3.exe.config
+R:\Study\Архетиктура и шаблоны C#\Урок 1\Lesson1\Lesson1 Task 3\Lesson1 Task 3\bin\Debug\Lesson1 Task 3.exe
+R:\Study\Архетиктура и шаблоны C#\Урок 1\Lesson1\Lesson1 Task 3\Lesson1 Task 3\bin\Debug\Lesson1 Task 3.pdb
+R:\Study\Архетиктура и шаблоны C#\Урок 1\Lesson1\Lesson1 Task 3\Lesson1 Task 3\obj\Debug\Lesson1 Task 3.csprojAssemblyReference.cache
+R:\Study\Архетиктура и шаблоны C#\Урок 1\Lesson1\Lesson1 Task 3\Lesson1 Task 3\obj\Debug\Lesson1 Task 3.csproj.CoreCompileInputs.cache
+R:\Study\Архетиктура и шаблоны C#\Урок 1\Lesson1\Lesson1 Task 3\Lesson1 Task 3\obj\Debug\Lesson1 Task 3.exe
+R:\Study\Архетиктура и шаблоны C#\Урок 1\Lesson1\Lesson1 Task 3\Lesson1 Task 3\obj\Debug\Lesson1 Task 3.pdb
